@@ -1,0 +1,9 @@
+{
+  "name": "palette-gemeratpr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PrimeKoboDevlopement/palette-gemeratpr.git",
+  "author": "Masaru Kitajima <thirstytraveler@mac.com>",
+  "license": "MIT",
+  "private": false
+}
